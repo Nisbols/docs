@@ -1,0 +1,42 @@
+# Tools
+
+- VS Code
+- MinGW
+- Pandoc
+- PowerShell
+- Windows Terminal
+- PowerToys
+- Microsoft Edge
+- Malwarebytes Anti-Malware
+- hUGE Tracker
+- Aseprite
+- ShareX
+- VLC
+- PeaZip
+- 1Password
+- Office
+- Steam
+- Revo
+- qBittorrent
+- BambooTracker
+- Audacity
+- Shotcut
+- Windows Package Manager
+- Paint.net
+- Microsoft To Do
+- SumatraPDF
+- GitHub Desktop 
+- Git 
+- SysInternals
+- BalenaEtcher
+- SQLite
+- Plex
+- Anki
+- Calibre 
+- SDL2
+- powerbi 
+- Lua
+- FastStone
+- HandBrake
+- Pandoc side notes
+- retroarch 
